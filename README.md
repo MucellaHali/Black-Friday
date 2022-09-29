@@ -1,5 +1,4 @@
 # Black-Friday
-# Black-Friday
 
 # Project Introduction
 Black Friday is an informal name for the Friday following Thanksgiving Day in the United States. The day after Thanksgiving has been regarded as the beginning of the United States Christmas shopping season since 1952. Many stores offer highly promoted sales on Black Friday. The major challenge for a Retail store or eCommerce business is to choose product price such that they get maximum profit at the end of the sales. Our project deals with determining the product prices based on the historical retail store sales data. After generating the predictions, our model will help the retail store to decide the price of the products to earn more profits.
